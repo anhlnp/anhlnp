@@ -6,28 +6,23 @@
       Full-Stack Software Engineer
       <br>
       Xin chào, mình là anhlnp ! 👋
-      <br>
     </b>
   </samp>
 </div>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=anhlnp&label=Profile+Visits%3A++&color=5cadc0&style=flat" />
-  </p> 
+  <img src="https://komarev.com/ghpvc/?username=anhlnp&label=Profile+Visits%3A++&color=5cadc0&style=flat" />
 </div>
-      
-<br>
 
+<!-- Rain & Frog Section (Centered vertically stacked) -->
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="180">
+  <img src="https://media.giphy.com/media/09MsSFGDZvKOki1kxY/giphy.gif" width="220" style="margin-bottom: -40px;" alt="Rain Animation" /><br />
+  <img src="https://media.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif" width="160" style="margin-top: -30px;" alt="Frog with Umbrella Animation" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/code_with_love_♡-black" />
 </div>
-
-<br>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5cadc0&width=600&height=45&center=true&lines=Software+Engineer;Full-Stack+Developer;Building+scalable+web+apps;Welcome+to+my+profile!" alt="Typing SVG"/>
@@ -92,7 +87,7 @@
     <samp>
       ♡ <a href="https://github.com/anhlnp">github</a> ⊹
       <a href="https://linkedin.com/in/anhlnp">linkedin</a> ⊹
-      <a href="mailto:anhlnp171003@gmail.com">email</a> ♡
+      <a href="mailto:anhlnp1710043@gmail.com">email</a> ♡
     </samp>
   </p>
 </div>
